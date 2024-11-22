@@ -1,0 +1,1 @@
+print("this is a python script who run a pdf reader , thank you ")
