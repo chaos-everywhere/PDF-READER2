@@ -7,13 +7,11 @@ def toto():
     print(len(reader.pages))
 
     print(reader.pages[0].extract_text())
-   
+
 
 def koko():
 
     print("new function")
 
-
-toto()
-koko()
+    koko()
 
